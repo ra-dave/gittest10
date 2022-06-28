@@ -5,7 +5,7 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- CoreVersion: 10.0.0.59
+ CoreVersion: 10.0.0.0
  Dependencies:
   2:
    Uri: gittest10
@@ -13,5 +13,5 @@ Project:
   3:
    Uri: 'urn:QPlatform:CoreBase'
    Module: QPlatform.CoreBase
-   Version: 8.1.0.97
+   Version: 8.1.0.0
  Nodes: []

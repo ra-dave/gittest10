@@ -5,27 +5,27 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- CoreVersion: 10.0.0.59
+ CoreVersion: 10.0.0.0
  Dependencies:
   2:
    Uri: 'urn:QPlatform:CoreBase'
    Module: QPlatform.CoreBase
-   Version: 8.1.0.97
+   Version: 8.1.0.0
   3:
    Uri: 'urn:QPlatform:UI'
    Module: QPlatform.UI
-   Version: 45.0.0.78
+   Version: 45.0.0.0
   4:
    Uri: 'urn:QPlatform:HMIProject'
    Module: QPlatform.HMIProject
-   Version: 11.0.0.59
+   Version: 11.0.0.0
   5:
    Uri: 'urn:QPlatform:NativeUI'
    Module: QPlatform.NativeUI
-   Version: 27.0.0.206
+   Version: 27.0.0.0
   6:
    Uri: 'urn:QPlatform:Retentivity'
    Module: QPlatform.Retentivity
-   Version: 3.0.58.226
+   Version: 3.0.0.0
  Nodes:
  - File: Nodes/gittest10.yaml
