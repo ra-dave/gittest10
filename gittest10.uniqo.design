@@ -1,0 +1,17 @@
+Project:
+ Name: gittest10_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 10.0.0.59
+ Dependencies:
+  2:
+   Uri: gittest10
+   RelativePath: gittest10.uniqo
+  3:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.1.0.97
+ Nodes: []
